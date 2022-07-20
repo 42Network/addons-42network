@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: 42Network Home Assistant Addon Repository
+url: https://github.com/42Network/addons-42network/
+maintainer: 42Network <42network@42network.xyz>
